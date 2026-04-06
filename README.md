@@ -73,8 +73,7 @@ This project demonstrates hands-on security testing using **bWAPP (Buggy Web App
 ---
 
 ## 🎥 Demo Video
-
-(Add your Google Drive / YouTube video link here)
+https://drive.google.com/file/d/1RixyYGIbwtlAfIzcJTxxeoY1XLq31iwT/view?usp=sharing
 
 ---
 
