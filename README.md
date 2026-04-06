@@ -47,15 +47,28 @@ This project demonstrates hands-on security testing using **bWAPP (Buggy Web App
 
 ---
 
-## 📸 Screenshots
+### 📸 Screenshots
 
-(Add your screenshots here)
+### 🔹 SQL Injection Attack
 
-Example:
+![SQL Injection](sql inj hack.png)
 
-* SQL Injection Attack
-* XSS Execution
-* Command Injection Result
+### 🔹 SQL Injection Output
+
+![SQL Output](sql injection output.png)
+
+### 🔹 XSS Attack Output
+
+![XSS](xss output.png)
+
+### 🔹 HTML Injection
+
+![HTML Injection](html injection.png)
+
+### 🔹 Command / PHP Injection
+
+![PHP Injection](php injection hack.png)
+
 
 ---
 
